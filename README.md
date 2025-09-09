@@ -25,20 +25,9 @@ ProjectAura is an Android application designed as a command center for sending p
 - View message logs and feedback in the Logs screen.
 - Toggle dark mode and other accessibility options in Settings.
 
-## License
-
-It is recommended to add a license to this project repository on GitHub to clarify usage rights and protect your work. Without a license, the default copyright applies, and others cannot legally use or distribute your code.
-
-Common licenses include:
-
-- MIT License: Permissive, allows reuse with attribution.
-- Apache 2.0 License: Permissive with patent protection.
-- GPL License: Requires derivative works to be open source under the same license.
-
-Choose a license that fits your intentions for sharing and protecting the project.
-
 ## Final Thoughts
 
 ProjectAura is a well-structured Android app with a clear UI and navigation flow. Core features like vibration patterns, BLE/Wi-Fi communication, and data persistence are ready for further development. Adding a license is advisable to protect your code and clarify terms of use.
 
 ---
+
