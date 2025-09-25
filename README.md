@@ -1,6 +1,6 @@
-# ProjectAura
+# Vibration System
 
-ProjectAura is an Android application designed as a command center for sending predefined commands with secure communication options. The app features a user-friendly interface with large command buttons, message detail views, customizable settings, and logs for message history and user feedback.
+Vibration System is an Android application designed as a command center for sending predefined commands with secure communication options. The app features a user-friendly interface with large command buttons, message detail views, customizable settings, and logs for message history and user feedback.
 
 ## Features
 
@@ -24,10 +24,6 @@ ProjectAura is an Android application designed as a command center for sending p
 - Customize vibration patterns and communication settings in the Settings screen.
 - View message logs and feedback in the Logs screen.
 - Toggle dark mode and other accessibility options in Settings.
-
-## Final Thoughts
-
-ProjectAura is a well-structured Android app with a clear UI and navigation flow. Core features like vibration patterns, BLE/Wi-Fi communication, and data persistence are ready for further development. Adding a license is advisable to protect your code and clarify terms of use.
-
 ---
+
 
